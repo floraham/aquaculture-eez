@@ -4,17 +4,17 @@
 #### 📦 Repo Link: https://github.com/floraham/xxxx
 This Github repository contains a .Rmd notebook. We use 3 datasets to conduct this analysis as described below. 
 
-## Overview
+## Overview 🦪
 Marine aquaculture has the potential to play an important role in the global food supply as a more sustainable protein option than land-based meat production. Gentry et al. mapped the potential for marine aquaculture globally based on multiple constraints, including ship traffic, dissolved oxygen, bottom depth.
 
 ## Objectives 
 The goal of this project is to determine which Exclusive Economic Zones (EEZ) on the West Coast of the US are best suited to developing marine aquaculture, and we use several species of oysters for a demonstration. 
 
 ## Outputs
-- an analysis of suitable EEZ's on the West Coast for several species of oysters, including visualizations. 
-- a generalizable workflow for other species of interest in aquaculture
+- 🗺️ an analysis of suitable EEZ's on the West Coast for several species of oysters, including visualizations. 
+- 📒 a generalizable workflow for other species of interest in aquaculture
 
-## Spatial Skills 
+## Spatial Skills 💪
 - combining vector/raster data
 - resampling raster data
 - masking raster data
